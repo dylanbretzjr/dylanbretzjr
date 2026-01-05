@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**dylanbretzjr/dylanbretzjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dylan :)
 
-Here are some ideas to get you started:
+I'm transitioning from a background in music to data analytics, bringing a unique blend of analytical, creative, and critical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently building my portfolio, pursuing certifications, and deepening my skills in data analysis.
+
+---
+
+**About me:**
+- 📍 Based in Ohio — open to relocating to the Pacific Northwest
+- 🔍 Seeking: Entry-level Data Analyst roles (remote preferred)
+- 🛠 Tools: Python (pandas, numpy, matplotlib, seaborn), SQL, R (tidyverse, dplyr), HTML/CSS, JavaScript, Markdown
+
+**Recently completed:**
+- Google Data Analysis with Python Specialization
+- Google Data Analytics Specialization
+
+Thanks for stopping by — more coming soon!
