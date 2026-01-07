@@ -1,12 +1,14 @@
-<img width="2500" height="1667" alt="Polar bear waving" src="https://github.com/user-attachments/assets/e8e65a2b-cfca-415d-87b0-0f519d7debe0" />
-
 # Hello 👋
 
-My name is Dylan :)
+<img width="2500" height="1667" alt="Polar bear waving" src="https://github.com/user-attachments/assets/e8e65a2b-cfca-415d-87b0-0f519d7debe0" />
 
-I'm transitioning from a background in music to data analytics, bringing a unique blend of analytical, creative, and critical thinking.
+My name is [Dylan](https://www.dylanbretzjr.com/) :)
 
-I’m currently building my portfolio, pursuing certifications, and deepening my skills in data analysis.
+I'm a musician and lifelong learner transitioning to data analytics.
+
+I bring a unique blend of analytical, creative, and critical thinking to everything I do.
+
+I'm currently building my portfolio, obtaining certifications, and improving my technical skills.
 
 ---
 
