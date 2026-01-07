@@ -16,7 +16,7 @@ I use Python, SQL, R, JavaScript, HTML/CSS, and Markdown, as well as spreadsheet
 
 I'm currently seeking entry-level Data Analyst roles (remote preferred).
 
-I'm currently based in Ohio but open to relocating (esp. to PNW 🌲).
+I'm based in Ohio but open to relocating (esp. to PNW 🌲).
 
 **Recently completed:**
 - Google Data Analysis with Python Specialization
