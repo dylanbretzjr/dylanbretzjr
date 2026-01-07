@@ -1,3 +1,5 @@
+<img width="2500" height="1667" alt="Polar bear waving" src="https://github.com/user-attachments/assets/e8e65a2b-cfca-415d-87b0-0f519d7debe0" />
+
 # Hello 👋
 
 My name is Dylan :)
