@@ -4,7 +4,7 @@
 
 ---
 
-My name is [Dylan](https://www.dylanbretzjr.com/) :)
+My name is [Dylan](https://dylanbretzjr.com/) :)
 
 I'm a musician, problem solver, and lifelong learner transitioning to data analytics.
 
