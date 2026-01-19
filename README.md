@@ -19,6 +19,8 @@ I'm currently seeking Data Analyst roles (remote preferred).
 I'm based in Ohio but open to relocating (esp. to PNW 🌲).
 
 **Recently completed:**
+
+- [Cyclistic Bike-Share Data Analysis with Python Case Study](https://dylanbretzjr.com/projects/cyclistic-case-study/)
 - Google Data Analysis with Python Specialization
 - Google Data Analytics Specialization
 
